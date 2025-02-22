@@ -38,7 +38,7 @@
   <a href="https://github.com/karrasmil80/karrasmil80/blob/main/README.md" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="github" />
   </a>
-  <a href="" target="_blank">
+  <a href="www.linkedin.com/in/pablo-zuil-armenteros-114941352" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
   </a>
 </p>
