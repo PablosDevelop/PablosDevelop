@@ -38,7 +38,7 @@
   <a href="https://github.com/PablosDevelop" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="github" />
   </a>
-  <a href="linkedin.com/in/pablo-zuil-armenteros-114941352" target="_blank">
+  <a href="https://www.linkedin.com/in/pablo-zuil-armenteros-114941352/?trk=public-profile-join-page" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
   </a>
 </p>
